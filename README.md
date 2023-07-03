@@ -13,4 +13,5 @@ Con modelos que simulen publico en las gradas.
 Y con plantas en la parte interna de la pista.
 
 Se usaran los modelos gratuitos de los siguientes creadores:
+
 "Lightning Mcqueen" (https://skfb.ly/onZMT) by HarrisonHag1 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
