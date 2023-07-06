@@ -12,6 +12,9 @@ Con modelos que simulen publico en las gradas.
 
 Y con plantas en la parte interna de la pista.
 
+Imagenes de referencia:
+![image](https://github.com/LBanda/Proyecto-Graficas-Computacionales/assets/25189471/3bd79a50-17c4-49bb-88ab-6fa1b2e7d59f)
+
 Se usaran los modelos gratuitos de los siguientes creadores:
 
 "Lightning Mcqueen" (https://skfb.ly/onZMT) by HarrisonHag1 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
