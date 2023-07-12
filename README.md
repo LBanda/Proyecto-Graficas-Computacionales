@@ -25,4 +25,8 @@ Se usaran los modelos gratuitos de los siguientes creadores:
 
 https://assetstore.unity.com/packages/3d/vehicles/karting-microgame-urp-150956?_ga=2.17528825.1139386520.1580068992-989784043.1575735757#publisher
 
+https://assetstore.unity.com/packages/3d/props/props-for-track-environment-lowpoly-free-211494#publisher
+
+https://assetstore.unity.com/packages/3d/props/props-for-track-environment-lowpoly-free-211494#publisher
+
 
