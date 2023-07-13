@@ -29,4 +29,10 @@ https://assetstore.unity.com/packages/3d/props/props-for-track-environment-lowpo
 
 https://assetstore.unity.com/packages/3d/props/props-for-track-environment-lowpoly-free-211494#publisher
 
+https://assetstore.unity.com/packages/3d/vehicles/land/single-detailed-truck-895
+
+https://assetstore.unity.com/packages/3d/vehicles/urban-toon-truck-77877
+
+
+
 
