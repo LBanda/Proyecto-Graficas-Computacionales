@@ -18,7 +18,9 @@ public class movimiento_carros : MonoBehaviour
     void Update()
     {
         if(Input.GetKey(KeyCode.Space)){
-        rigid.AddForce(transform.forward*velocidad);
+            rigid.AddForce(transform.forward*velocidad);
         }
+
+        gameObject.transform.Rotate(0,Input.GetAxis("Horizontal")*velRotacion,0);
     }
 }
