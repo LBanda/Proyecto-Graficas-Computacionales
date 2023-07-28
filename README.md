@@ -4,7 +4,7 @@ En este proyecto se creara una escena que represente la carrera de la copa pisto
 
 Que sera una pista ovalada, con sus paredes internas y externas.
 
-Al menos 3 modelos de autos que estaran corriendo por la pista.
+En la pista hay dos carros, uno controlado por el usuario y otro que se mueve de forma autonoma.
 
 Luces alrededor de la pista.
 
