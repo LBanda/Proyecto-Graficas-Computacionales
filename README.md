@@ -12,6 +12,10 @@ Con modelos que simulen publico en las gradas.
 
 Y con plantas en la parte interna de la pista.
 
+Video demostrativo del proyecto:
+https://drive.google.com/file/d/1_aZb9-H04kWx6boJbEojDBNPOwnbifOv/view?usp=sharing
+https://drive.google.com/file/d/1_aZb9-H04kWx6boJbEojDBNPOwnbifOv/view?usp=drive_link
+
 Imagenes de referencia:
 ![image](https://github.com/LBanda/Proyecto-Graficas-Computacionales/assets/25189471/3bd79a50-17c4-49bb-88ab-6fa1b2e7d59f)
 
